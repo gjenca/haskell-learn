@@ -1,3 +1,3 @@
 # haskell-learn
-# haskell-learn
-# haskell-learn
+
+Repozitár skúšobných programov v Haskelli.
